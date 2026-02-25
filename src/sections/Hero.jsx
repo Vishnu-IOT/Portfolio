@@ -1,7 +1,7 @@
 
 /* eslint-disable no-unused-vars */
 import { motion } from 'framer-motion';
-import profileImg from '../assets/profile.jpg';
+import profileImg from '../assets/new.png';
 
 const Hero = () => {
     return (
